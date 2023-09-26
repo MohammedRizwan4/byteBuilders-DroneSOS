@@ -2,7 +2,7 @@
 # PS Code : SIH1488
 
 ## Team Name: byteBuilders
-- Team Members: Biswojit Mohapatra, Datta Dhruv Ketan, Mohammed Rizwan Bhavnagri, Satyam Tank Bharatbhai, Kevat Devanshi Dharmendrakumar, Nakrani Priyanshi Bharatbhai
+- Team Members: Biswojit Mohapatra, Datta Dhruv Ketan, Bhavnagri Mohammed Rizwan, Tank Satyam Bharatbhai, Kevat Devanshi Dharmendrakumar, Nakrani Priyanshi Bharatbhai
 - Contact Email: rizwan.bhavnagri0411@gmail.com
 
 
@@ -10,19 +10,18 @@
 ### Purpose of the System
 - The primary purpose of the this system is to enhance emergency response efforts in various crisis situations like for example, natural disasters, medical emergencies, search and rescue operations and fire incidents.
 -  We will provide rapid and real-time support to first responders, the system aims to reduce response times, increase situational awareness, and optimize resource allocation.
--  To enhance public safety, by offering a user-friendly interface for the public to report emergencies and to request assistance.
+-  For public safety, We are offering a user-friendly interface for the public to report emergencies and to request assistance.
 ### Goal of DroneSOS system
--  The primary goal of the Drone SOS system is to optimize emergency response by reducing response times.
+-  The primary goal is to optimize emergency response by reducing response times.
 -  Drones can reach emergency scenes faster than traditional vehicles, providing critical support and data to responders when it matters most.
 -  To minimize risks to first responders by automating certain tasks and allowing drones to go at hard-to-reach areas. 
 ### What problem does this system solve? and the Significance of our System
-- Problem-1 : Traditional emergency response methods often suffer from delays in reaching at location. (30% accidents of victims die in road accidents due to delayed/unavailibility of the ambulance services)
-- Solution-1 : The Drone SOS system solves the problem of delayed emergency response by dispatching autonomous drones rapidly.
+- *Problem-1* : Traditional emergency response methods often suffer from delays in reaching at location. (30% accidents of victims die in road accidents due to delayed/unavailibility of the ambulance services)
+- *Solution-1* : The Drone SOS system solves the problem of delayed emergency response by dispatching autonomous drones rapidly. <br>
+- *Problem-2* : Dealing with certain emergencies like wildfires or chemical spills can be very dangerous for the people who come to help first.
+- *Solution-2* : Drones can access hazardous areas or environments without endangering human lives with low risks.
 
-- Problem-2 : Dealing with certain emergencies like wildfires or chemical spills can be very dangerous for the people who come to help first.
-- Solution-2 : Drones can access hazardous areas or environments without endangering human lives with low risks.
-
-- problem-3 remaining
+- *Problem-3* : Remaining
 ## Tech Stack 💻
 ### Here are the technologies and tools we used to build our System:
 
@@ -41,7 +40,7 @@
 ## How It Works 🛠️
 
 - The user initiates the process by requesting emergency assistance, either through our application or a phone call.
-- Once validated, an operator assigns the task to a specific drone and ensures the necessary supplies are loaded. 
+- Once a request validated, an operator assigns the task to a specific drone and he/she ensures the necessary supplies are loaded. 
 - Operators gain access to a live view and shares the view with first responders and also controls the drone throughout the whole operation. 
 - Once the task is completed or supplies are handed over, the interaction concludes.
 
