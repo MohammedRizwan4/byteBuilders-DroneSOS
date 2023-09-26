@@ -1,24 +1,23 @@
-# Project Name: [Project's Name]
-# PS Code : [Problem Statement Code] 
+# Project Name: DroneSOS : Enhancing emergency response with Drone technology.
+# PS Code : SIH1488
 
-## Team Name: Byte Builder/Model Magicians
-- Team Members:
-- Contact Email:
+## Team Name: byteBuilders
+- Team Members: Biswojit Mohapatra, Mohammed Rizwan Bhavnagri, Satyam Tank Bharatbhai, Kevat Devanshi Dharmendrakumar, Nakrani Priyanshi Bharatbhai, Datta Dhruv Ketan
+- Contact Email: rizwan.bhavnagri0411@gmail.com
 
 
 ## Project Overview 🚀
+### Purpose and Goal of DroneSOS system
+### What problem does this system solve? and the Significance of our System
+### 
 Briefly describe the purpose and goals of our AI project. What problem does it solve? What's its significance? This section should provide an exciting introduction to our project.
 
 ## Tech Stack 💻
+### Here are the technologies and tools we used to build our System:
 
-Here are the technologies and tools we used to build our AI solution:
-
-example :
-
-* **HTML** <img src="https://img.shields.io/badge/HTML5-E34F2C?style=for-the-badge&logo=html5" alt="HTML5">
-* **CSS** <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3">
-* **Python** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python">
-* [More technologies/tools used]
+* **XML** <img src="https://img.shields.io/badge/XML-red?style=for-the-badge&logo=xml" alt="CSS3">
+* **JAVA** <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java" alt="CSS3">
+* **Firebase** <img src="https://img.shields.io/badge/Firebase-green?style=for-the-badge&logo=firebase" alt="Python">
 
 
 ## Project Features and Functionality ✨
