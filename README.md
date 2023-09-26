@@ -2,33 +2,34 @@
 # PS Code : SIH1488
 
 ## Team Name: byteBuilders
-- Team Members: Biswojit Mohapatra, Mohammed Rizwan Bhavnagri, Satyam Tank Bharatbhai, Kevat Devanshi Dharmendrakumar, Nakrani Priyanshi Bharatbhai, Datta Dhruv Ketan
+- Team Members: Biswojit Mohapatra, Datta Dhruv Ketan, Mohammed Rizwan Bhavnagri, Satyam Tank Bharatbhai, Kevat Devanshi Dharmendrakumar, Nakrani Priyanshi Bharatbhai
 - Contact Email: rizwan.bhavnagri0411@gmail.com
 
 
 ## Project Overview 🚀
 ### Purpose of the System
-- The primary purpose of the Drone SOS system is to enhance emergency response efforts in various crisis situations, including natural disasters, medical emergencies, search and rescue operations, and fire incidents.
--  By providing rapid and real-time support to first responders, the system aims to reduce response times, increase situational awareness, and optimize resource allocation.
+- The primary purpose of the this system is to enhance emergency response efforts in various crisis situations like for example, natural disasters, medical emergencies, search and rescue operations and fire incidents.
+-  We will provide rapid and real-time support to first responders, the system aims to reduce response times, increase situational awareness, and optimize resource allocation.
 -  To enhance public safety, by offering a user-friendly interface for the public to report emergencies and to request assistance.
 ### Goal of DroneSOS system
 -  The primary goal of the Drone SOS system is to optimize emergency response by reducing response times.
 -  Drones can reach emergency scenes faster than traditional vehicles, providing critical support and data to responders when it matters most.
 -  To minimize risks to first responders by automating certain tasks and allowing drones to go at hard-to-reach areas. 
 ### What problem does this system solve? and the Significance of our System
-- Problem-1 : Traditional emergency response methods often suffer from delays in reaching at location.
+- Problem-1 : Traditional emergency response methods often suffer from delays in reaching at location. (30% accidents of victims die in road accidents due to delayed/unavailibility of the ambulance services)
 - Solution-1 : The Drone SOS system solves the problem of delayed emergency response by dispatching autonomous drones rapidly.
 
 - Problem-2 : Dealing with certain emergencies like wildfires or chemical spills can be very dangerous for the people who come to help first.
-- Solution-2 : rones can access hazardous areas or environments without endangering human lives with low risks.
-Briefly describe the purpose and goals of our AI project. What problem does it solve? What's its significance? This section should provide an exciting introduction to our project.
+- Solution-2 : Drones can access hazardous areas or environments without endangering human lives with low risks.
 
+- problem-3 remaining
 ## Tech Stack 💻
 ### Here are the technologies and tools we used to build our System:
 
-* **XML** <img src="https://img.shields.io/badge/XML-red?style=for-the-badge&logo=xml" alt="XML">
-* **JAVA** <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java" alt="JAVA">
-* **Firebase** <img src="https://img.shields.io/badge/Firebase-green?style=for-the-badge&logo=firebase" alt="Firebase">
+* Frontend : **XML** <img src="https://img.shields.io/badge/XML-red?style=for-the-badge&logo=xml" alt="XML">
+* Backend : **JAVA** <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java" alt="JAVA">
+* Database : **Firebase** <img src="https://img.shields.io/badge/Firebase-green?style=for-the-badge&logo=firebase" alt="Firebase">
+* Code Editor : **Android Studio** <img src="https://img.shields.io/badge/Android_Studio-yellow?style=for-the-badge&logo=android" alt="Android Studio">
 
 
 ## Project Features and Functionality ✨
@@ -39,9 +40,9 @@ Briefly describe the purpose and goals of our AI project. What problem does it s
 
 ## How It Works 🛠️
 
-- The user initiates the process by requesting emergency assistance, either through our application or a phone call for validation. 
+- The user initiates the process by requesting emergency assistance, either through our application or a phone call.
 - Once validated, an operator assigns the task to a specific drone and ensures the necessary supplies are loaded. 
-- Users gain access to a live view and control of the drone throughout the operation. 
+- Operators gain access to a live view and shares the view with first responders and also controls the drone throughout the whole operation. 
 - Once the task is completed or supplies are handed over, the interaction concludes.
 
 ## Challenges and Solutions 🧠
@@ -49,9 +50,8 @@ Share any challenges our team faced during development and how you overcame them
 
 ## Future Enhancements 🚧
 - Local drone station - so that task will be assigned to nearest drone by distance
-- Data should me updated automatically in drones
-- Obstacle avoidance
-- Weather proof drones
+- Data should be updated automatically in drones
+- Obstacle avoidance 
 
 ## Screenshots and Demos 📸
 Showcase the visual aspects of our AI solution through screenshots or videos. If possible, include a link to a live demo or video demonstration.
