@@ -61,7 +61,7 @@ Showcase the visual aspects of our AI solution through screenshots or videos. If
 ## Get In Touch! 📬
 
 
-| Team Member | LinkedIn | Kaggle | Email |
+| Team Leader | LinkedIn | Kaggle | Email |
 |---|---|---|---|
 | Mohammed Rizwan Bhavnagri | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rizwanbhavnagri/) | [![Kaggle](https://img.shields.io/badge/Kaggle-%2320B2AA.svg?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/mohammedrizwan4) | [rizwan.bhavnagri0411@gmail.com](mailto:rizwan.bhavnagri0411@gmail.com) |
 
