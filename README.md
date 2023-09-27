@@ -47,7 +47,9 @@
 - Once the task is completed or supplies are handed over, the interaction concludes.
 
 ## Challenges and Solutions 🧠
-Share any challenges our team faced during development and how you overcame them. This can include technical obstacles, data-related issues, or creative roadblocks.
+### Integration of Drone Hardware:
+- *Challenge* :  Integrating various drone models and hardware components with our system posed a technical challenge. Each drone had its SDK and communication protocols, making seamless integration complex.
+- *Solution* : We created our own piece of small hardware with raspberry pi 4 and took the control over the internet.
 
 ## Future Enhancements 🚧
 - Local drone station - so that task will be assigned to nearest drone by distance
@@ -59,6 +61,17 @@ Showcase the visual aspects of our AI solution through screenshots or videos. If
 
 ## Acknowledgments 🙌
 
+- byteBuilders Team: A shout-out to our talented team members  who worked tirelessly to bring this project to life.
+
+| Team Members | Role | LinkedIn | Github | Email |
+|---|---|---|---|---|
+| Priyanshi Nakrani | Android Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshinakrani) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/PriyanshiNakrani) | [priyanshinakrani@gmail.com](mailto:priyanshinakrani@gmail.com) |
+| Devanshi Kevat | UI/UX Designer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devanshi-kevat-765631245) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/DevanshiKevat) | [devanshikevat7041@gmail.com](mailto:devanshikevat7041@gmail.com) |
+| Biswojit Mohapatra | Hardware Integration | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/biswojit-mohapatra-282b64258) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/git-biswojit) | [send2biswojit@gmail.com](mailto:send2biswojit@gmail.com) |
+| Satyam Tank | Python Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satyam-tank-26212a209) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/SatyamTank07) | [satyamtank03@gmail.com](mailto:satyamtank03@gmail.com) |
+| Dhruv Datta | Backend Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhruv-datta-576795145) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/dhruvkdatta) | [dhruvkdatta@gmail.com](mailto:dhruvkdatta@gmail.com) |
+
+- Hackathon Organizers: We are very thankfull and appreciate the hard work of the hackathon organizers for creating this opportunity.
 
 ## Get In Touch! 📬
 
