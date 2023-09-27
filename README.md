@@ -21,7 +21,6 @@
 - *Problem-2* : Dealing with certain emergencies like wildfires or chemical spills can be very dangerous for the people who come to help first.
 - *Solution-2* : Drones can access hazardous areas or environments without endangering human lives with low risks.
 
-- *Problem-3* : Remaining
 ## Tech Stack 💻
 ### Here are the technologies and tools we used to build our System:
 
@@ -57,7 +56,7 @@
 - Obstacle avoidance 
 
 ## Screenshots and Demos 📸
-Showcase the visual aspects of our AI solution through screenshots or videos. If possible, include a link to a live demo or video demonstration.
+![ui design](https://imageupload.io/6aXD6m9Ye2l4tc7)
 
 ## Acknowledgments 🙌
 
