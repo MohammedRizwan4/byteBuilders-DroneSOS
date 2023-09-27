@@ -27,9 +27,11 @@
 
 * Frontend : **XML** <img src="https://img.shields.io/badge/XML-red?style=for-the-badge&logo=xml" alt="XML">
 * Backend : **JAVA** <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java" alt="JAVA">
+* Backend : **Python** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FFD100" alt="Python">
+* Backend library : **OpenCV** <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" alt="OpenCV">
 * Database : **Firebase** <img src="https://img.shields.io/badge/Firebase-green?style=for-the-badge&logo=firebase" alt="Firebase">
 * Code Editor : **Android Studio** <img src="https://img.shields.io/badge/Android_Studio-yellow?style=for-the-badge&logo=android" alt="Android Studio">
-
+* Web server: **Ngrok** <img src="https://img.shields.io/badge/Ngrok-00ADD8?style=for-the-badge&logo=ngrok" alt="Ngrok">
 
 ## Project Features and Functionality ✨
 1. Emergency Reporting: Users can quickly report emergencies through our app.
