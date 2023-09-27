@@ -1,4 +1,4 @@
-# Project Name: DroneSOS : Enhancing emergency response with Drone technology.
+# Project Name: DroneSOS : Enhancing Emergency Response with Drone Technology.
 # PS Code : SIH1488
 
 ## Team Name: byteBuilders
@@ -12,12 +12,12 @@
 -  We will provide rapid and real-time support to first responders, the system aims to reduce response times, increase situational awareness, and optimize resource allocation.
 -  For public safety, We are offering a user-friendly interface for the public to report emergencies and to request assistance.
 ### Goal of DroneSOS system
--  The primary goal is to optimize emergency response by reducing response times.
--  Drones can reach emergency scenes faster than traditional vehicles, providing critical support and data to responders when it matters most.
+-  The primary goal is to optimize emergency response by reducing response time.
+-  Drones can reach emergency scenes faster than any traditional vehicles, providing critical support and data to responders when it matters the   most.
 -  To minimize risks to first responders by automating certain tasks and allowing drones to go at hard-to-reach areas. 
 ### What problem does this system solve? and the Significance of our System
-- *Problem-1* : Traditional emergency response methods often suffer from delays in reaching at location. (30% accidents of victims die in road accidents due to delayed/unavailibility of the ambulance services)
-- *Solution-1* : The Drone SOS system solves the problem of delayed emergency response by dispatching autonomous drones rapidly. <br>
+- *Problem-1* : Traditional emergency response methods often suffer from delays in reaching at location. (30% accidents of victims die in road accidents due to delayed/unavailibility of the medical services)
+- *Solution-1* : The Drone SOS system solves the problem of delayed emergency response by dispatching autonomous drones rapidly. 
 - *Problem-2* : Dealing with certain emergencies like wildfires or chemical spills can be very dangerous for the people who come to help first.
 - *Solution-2* : Drones can access hazardous areas or environments without endangering human lives with low risks.
 
@@ -33,7 +33,7 @@
 * Web server: **Ngrok** <img src="https://img.shields.io/badge/Ngrok-00ADD8?style=for-the-badge&logo=ngrok" alt="Ngrok">
 
 ## Project Features and Functionality ✨
-1. Emergency Reporting: Users can quickly report emergencies through our app.
+1. Emergency Reporting: Users can quickly report emergencies through our app or IVR.
 2. Drone Dispatch: Drones are sent out automatically to emergency locations.
 3. Real-time situational awareness :  Drones can provide real-time video and sensor data from the scene of an emergency, which can help emergency responders to quickly assess the situation and make informed decisions.
 4. Enhanced Safety: Benefits include faster emergency response, improved situational awareness, and reduced risks for first responders. It's all about saving lives and protecting communities in times of crisis.
@@ -52,11 +52,12 @@
 
 ## Future Enhancements 🚧
 - Local drone station - so that task will be assigned to nearest drone by distance
-- Data should be updated automatically in drones
+- Automation of user request validation.
 - Obstacle avoidance 
 
 ## Screenshots and Demos 📸
-![ui design](https://imageupload.io/6aXD6m9Ye2l4tc7)
+![ui design](https://imageupload.io/ib/LkbN68JPa68v8ft_1695801427.png)
+- Our projects flow and UI components :- https://drive.google.com/file/d/1CsQcYr8JIAAz_BtO-Jaf_tjFOltaCVh8/view?usp=sharing
 
 ## Acknowledgments 🙌
 
@@ -70,14 +71,14 @@
 | Satyam Tank | Python Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satyam-tank-26212a209) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/SatyamTank07) | [satyamtank03@gmail.com](mailto:satyamtank03@gmail.com) |
 | Dhruv Datta | Backend Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhruv-datta-576795145) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/dhruvkdatta) | [dhruvkdatta@gmail.com](mailto:dhruvkdatta@gmail.com) |
 
-- Hackathon Organizers: We are very thankfull and appreciate the hard work of the hackathon organizers for creating this opportunity.
+- Hackathon Organizers: We are very thankful and appreciate the hard work of the hackathon organizers for creating this opportunity.
 
 ## Get In Touch! 📬
 
 
-| Team Leader | LinkedIn | Kaggle | Email |
+| Team Leader | LinkedIn | Github | Email |
 |---|---|---|---|
-| Mohammed Rizwan Bhavnagri | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rizwanbhavnagri/) | [![Kaggle](https://img.shields.io/badge/Kaggle-%2320B2AA.svg?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/mohammedrizwan4) | [rizwan.bhavnagri0411@gmail.com](mailto:rizwan.bhavnagri0411@gmail.com) |
+| Mohammed Rizwan Bhavnagri | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rizwanbhavnagri/) | [![Github](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/MohammedRizwan4) | [rizwan.bhavnagri0411@gmail.com](mailto:rizwan.bhavnagri0411@gmail.com) |
 
 
 
