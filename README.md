@@ -54,11 +54,11 @@
 - Local drone station - so that task will be assigned to nearest drone by distance
 - Automation of user request validation.
 - Obstacle avoidance 
-
+---
 ## Screenshots and Demos 📸
 ![ui design](https://imageupload.io/ib/LkbN68JPa68v8ft_1695801427.png)
 - Our projects flow and UI components :- https://drive.google.com/file/d/1CsQcYr8JIAAz_BtO-Jaf_tjFOltaCVh8/view?usp=sharing
-
+---
 ## Acknowledgments 🙌
 
 - byteBuilders Team: A shout-out to our talented team members  who worked tirelessly to bring this project to life.
@@ -72,17 +72,15 @@
 | Dhruv Datta | Backend Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhruv-datta-576795145) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/dhruvkdatta) | [dhruvkdatta@gmail.com](mailto:dhruvkdatta@gmail.com) |
 
 - Hackathon Organizers: We are very thankful and appreciate the hard work of the hackathon organizers for creating this opportunity.
-
+---
 ## Get In Touch! 📬
 
 
-| Team Leader | LinkedIn | Github | Email |
-|---|---|---|---|
-| Mohammed Rizwan Bhavnagri | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rizwanbhavnagri/) | [![Github](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/MohammedRizwan4) | [rizwan.bhavnagri0411@gmail.com](mailto:rizwan.bhavnagri0411@gmail.com) |
+| Team Leader | Role | LinkedIn | Github | Email |
+|---|---|---|---|---|
+| Mohammed Rizwan Bhavnagri | Android Developer & Research Work | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rizwanbhavnagri/) | [![Github](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/MohammedRizwan4) | [rizwan.bhavnagri0411@gmail.com](mailto:rizwan.bhavnagri0411@gmail.com) |
 
 
 
 ---
 
-
-[Add any additional sections or content specific to our project here.]
